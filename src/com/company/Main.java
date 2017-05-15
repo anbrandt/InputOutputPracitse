@@ -34,7 +34,7 @@ public class Main {
         File f1 = new File(fname1);
         //popular method!
         System.out.println("file exists? : " + f1.exists());
-
+//coś tam
         //Example 2 - creating new file
 
         System.out.println(" --- Example 2 --- ");
